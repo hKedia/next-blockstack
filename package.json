@@ -1,0 +1,21 @@
+{
+  "name": "next-blockstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Blockstack with Next.js",
+  "author": "Harsh Kedia",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "blockstack": "^19.1.0",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "semantic-ui-react": "^0.86.0"
+  }
+}

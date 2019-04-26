@@ -1,0 +1,12 @@
+{
+    "name": "Blockstack with Next.js",
+    "start_url": "localhost:5000",
+    "description": "Blockstack as a Next.js app.",
+    "icons": [
+      {
+        "src": "https://github.com/blockstack/blockstack-stats/blob/master/favicon.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
